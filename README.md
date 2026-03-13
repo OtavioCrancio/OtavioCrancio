@@ -12,7 +12,7 @@ Você pode conferir meus projetos e minha trajetória no meu Portfólio
     <a href="https://www.linkedin.com/in/ot%C3%A1vio-crancio-de-araujo" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="xxxxxxxxxxxxxxxxxxxxxx" target="_blank">
+    <a href="https://otaviocrancio.github.io/portifolio/index.html" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:otavio.cranci@gmail.com" target="_blank">
